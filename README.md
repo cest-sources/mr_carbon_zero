@@ -12,6 +12,9 @@ A resource for MRI institutes / radiologic institutes towards realization of car
 ### simple
 
 ### advanced and to be tested
+- no cooling at night
+- abwaerme nutzen
+
 
 ## Solar system and storage dimensioning
 
