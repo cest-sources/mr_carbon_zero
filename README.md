@@ -57,9 +57,22 @@ Thus, a strongly reduced external energy demand can be achieved using local phot
 In 8 of 12 months even an autarkic mode might be possible.
 
 With above mentioned savings we might reduce te energy demand of an advanced MRI from 159 MWh down to 80 MWh.
-In Germany a PV production of 175 to 235 kWh/sqm is possible.  Using 160 kWh/sqm as a worst case calculation leads to 500 sqm of needed photovoltaics in average.
+In Germany a PV production of 175 to 235 kWh/sqm is possible.  Using 200 kWh/sqm as for our calculation leads to 400 sqm of needed photovoltaics to covere the average demand with the average production.
+To cover the months in spring and autumn a overdimensuoning of a factor two might be necessary, leading to 800 sqm.
+To use the higher PV energy of noon time for evening and morning, a battery storage can be used.
+A storage of 0.5 MWh could cover approximatley 2 days of demand and seems well suited for this.
 
-## Autarkic MRI 8/12
+## Cost of an 8/12 autarkic MRI 
+PV: 210 Euro per sqm
+battery: ~500€ per kWh
+
+800 sqm PV    -  168,000 €
+0.5 MWh battery - 250,000 €
+setup - 32,000 €
+----------------------------------
+Total:    450,000 €
+
+Currently energy prices are at 42 cent per kWh. Thus, outgoing from the non optimized demand (159 MWh), this system would amortize itself within 7.7 years.
 
 ## Literature references
 
