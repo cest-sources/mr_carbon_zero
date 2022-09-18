@@ -41,7 +41,7 @@ which is also nicely summarized here:
 
 ### advanced 
 - no cooling at night -store helium gas and use solar power during the daytime for condensation.
-- use the generated heat as heat supply or reservoir -> heat pumps. Under the assumption that 20 % of the energy (108 MWh/159 MWh at 1.5/3 T) can be re-used as heat source, this is  21 / 32 MWh unused energy annualy.
+- use the generated waste heat as heat supply or reservoir for heat pumps. Under the assumption that 20 % of the energy (108 MWh/159 MWh at 1.5/3 T) can be re-used as heat source, this is  21 / 32 MWh unused energy annualy.
 
 ### more advanced 
 - design and usage of more effecient amplifiers
@@ -86,6 +86,7 @@ In summary we have to
 3. don't cool at night, but recool during daytime
 4. add buffer battery for mornings, evenings, and as peak-power buffer
 5. get wind energy in winter
+6. use generated waste heat for buildings heating ~ 10 Mwh/year
 
 ![Rofs](../main/img/summary.jpg)
 
