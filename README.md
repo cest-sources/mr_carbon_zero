@@ -79,8 +79,15 @@ And roofs are still empty:
 
 And for the winter months we buy wind energy to realize a carbon zero MRI.
 
-## Summary
+## Summary - MR carbon zero
+In summary we have to
+1. add 800sqm PV
+2. reduce active-on idle times and match active-on with solar cycle
+3. don't cool at night be recool during daytime
+4. add buffer battery for mornings, eveenings and as peak power buffer
+5. get wind energy in winter
 
+![Rofs](../main/img/summary.jpg)
 
 ## Literature references
 
