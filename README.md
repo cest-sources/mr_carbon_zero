@@ -63,16 +63,17 @@ To use the higher PV energy of noon time for evening and morning, a battery stor
 A storage of 0.5 MWh could cover approximatley 2 days of demand and seems well suited for this.
 
 ## Cost of an 8/12 autarkic MRI 
-PV: 210 Euro per sqm
-battery: ~500€ per kWh
 
-800 sqm PV    -  168,000 €
-0.5 MWh battery - 250,000 €
-setup - 32,000 €
-----------------------------------
-Total:    450,000 €
+- PV: 210 Euro per sqm
+- battery: ~500€ per kWh
 
-Currently energy prices are at 42 cent per kWh. Thus, outgoing from the non optimized demand (159 MWh), this system would amortize itself within 7.7 years.
+- 800 sqm PV    -  168,000 €
+- 0.5 MWh battery - 250,000 €
+- setup - 32,000 €
+- ----------------------------------
+- Total:    450,000 €
+
+Currently energy prices are at 42 cent per kWh. Thus, outgoing from the non-optimized demand (159 MWh), this autarkic MRI + PV + battery system would amortize itself within 7.7 years. And would contribute to the heating of the builidng.
 
 ## Literature references
 
