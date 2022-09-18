@@ -23,7 +23,7 @@ The energy demand of “a single MRI machine in clinical use […] corresponds t
 
 ## Literature references
 
-1	Heye T, Knoerl R, Wehrle T, Mangold D, Cerminara A, Loser M, Plumeyer M, Degen M, Lüthy R, Brodbeck D, Merkle E. The Energy Consumption of Radiology: Energy- and Cost-saving                    Opportunities for CT and MRI Operation. Radiology. 2020;295(3):593-605. https://doi.org/10.1148/radiol.2020192084 
+[1]	Heye T, Knoerl R, Wehrle T, Mangold D, Cerminara A, Loser M, Plumeyer M, Degen M, Lüthy R, Brodbeck D, Merkle E. The Energy Consumption of Radiology: Energy- and Cost-saving                    Opportunities for CT and MRI Operation. Radiology. 2020;295(3):593-605. https://doi.org/10.1148/radiol.2020192084 
 
 
 
