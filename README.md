@@ -15,8 +15,13 @@ MR scanners have a rather high helium demand for the cooling system as upon usag
 On old systems this helium is either gathered for external reliquefying purposes or released to the environment.
 Newer generation of MRI scanners have a so-called zero boil-off technology where the generated helium gas is locally collected and reliquefied. The additional helium demand is therefore marginal, which is a significant cost reduction, but the energy demand of zero boil-off systems is larger.
 
+In both cases the helium reliquification process has to be included in the energy demand calculation.
+
+The above mentioned energy demand is most probobably from system with zero boil-off techonolgy (Skyra, Verio, Avanto Fit, Espree), but this could not be verified, as avanto system without zero boil-off exist. We still assume that this is included for teh estimations herein.
 
 ### Dynamic energy demand 
+
+
 
 ## Options to save energy
 
