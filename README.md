@@ -10,17 +10,17 @@ With almost 3000 MRI machines in use alone in Germany, corresponding to the dema
 
 Average per examination 20 kWh ± 5 (range, 12–34 kWh)
 
-### Helium demand / zero boil off
+### Helium demand and zero boil-off
 MR scanners have a rather high helium demand for the cooling system as upon usage, heating of the system leads to boil-off of helium.
 On old systems this helium is either gathered for external reliquefying purposes or released to the environment.
 Newer generation of MRI scanners have a so-called zero boil-off technology where the generated helium gas is locally collected and reliquefied. The additional helium demand is therefore marginal, which is a significant cost reduction, but the energy demand of zero boil-off systems is larger.
 
 In both cases the helium reliquification process has to be included in the energy demand calculation.
 
-The above mentioned energy demand is most probobably from system with zero boil-off techonolgy (Skyra, Verio, Avanto Fit, Espree), but this could not be verified, as avanto system without zero boil-off exist. We still assume that this is included for teh estimations herein.
+The above mentioned energy demand is most probobably from system with zero boil-off techonolgy (Skyra, Verio, Avanto Fit, Espree), but this could not be verified, as avanto system without zero boil-off exist. It is assumed that this is included for the estimations herein.
 
 ### Dynamic energy demand 
-
+![Dynamic Energy demand](../main/img/image.png)
 
 
 ## Options to save energy
