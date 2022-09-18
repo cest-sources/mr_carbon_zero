@@ -2,7 +2,7 @@
 A resource for MRI institutes / radiologic institutes towards realization of carbon neutral MRI.
 
 ## Current general energy demand of MRI
-The energy demand of “a single MRI machine in clinical use […] corresponds to 25.8 four-person households” [ref1](#Literature) The “daily energy consumption for a clinical MRIs  scanner in operation for 13 hours was estimated to be 363 kWh with 1.5 T units and 530 kWh with 3.0 T units”1. Yearly (300 days) 108 MWh with 1.5 T  and 159 MWh with 3 T. 
+The energy demand of “a single MRI machine in clinical use […] corresponds to 25.8 four-person households” [[1]](#Literature) The “daily energy consumption for a clinical MRIs  scanner in operation for 13 hours was estimated to be 363 kWh with 1.5 T units and 530 kWh with 3.0 T units”1. Yearly (300 days) 108 MWh with 1.5 T  and 159 MWh with 3 T. 
 
 ### Helium demand / zero boil off
 
