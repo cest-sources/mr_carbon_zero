@@ -33,8 +33,6 @@ This shows that
 which is also nicely summarized here:
 ![Dynamic Energy demand](../main/img/dynNRG_MRI_fig7.jpeg)
 
-
-
 ## Options to save energy
 ### simple
 - use lower field, but at cost of performance
@@ -60,22 +58,28 @@ With above mentioned savings we might reduce te energy demand of an advanced MRI
 In Germany a PV production of 175 to 235 kWh/sqm is possible.  Using 200 kWh/sqm as for our calculation leads to 400 sqm of needed photovoltaics to covere the average demand with the average production.
 To cover the months in spring and autumn a overdimensuoning of a factor two might be necessary, leading to 800 sqm.
 To use the higher PV energy of noon time for evening and morning, a battery storage can be used.
-A storage of 0.5 MWh could cover approximatley 2 days of demand and seems well suited for this.
+ - A storage of 0.5 MWh could cover approximatley 2 days of demand and seems well suited for this. 
+ - Modern Li batteries also easily cover the mentioned peak power demand, thus the battery also serves as a peak power buffer.
+ - Moreover, the helium liquification can be done at noon time as well to use abundant energy, and switch off cooling at night.
 
 ## Cost of an 8/12 autarkic MRI 
 base costs: PV: 210 Euro per sqm [[4]](#literature-references) , battery: ~500€ per kWh [[5]](#literature-references) 
 
-- 800 sqm PV    -  168,000 €
-- 0.5 MWh battery - 250,000 €
-- setup - 32,000 €
+- 800 sqm PV --------  168,000 €
+- 0.5 MWh battery --- 250,000 €
+- setup ----------------- 32,000 €
 - ----------------------------------
-- Total:    450,000 €
+- Total:-----------------450,000 €
 
 Currently energy prices are at 42 cent per kWh. Thus, outgoing from the non-optimized demand (159 MWh), this autarkic MRI + PV + battery system would amortize itself within 7.7 years. And would contribute to the heating of the building.
 
 And roofs are still empty:
 
 ![Rofs](../main/img/roofs.jpg)
+
+And for the winter months we buy wind energy to realize a carbon zero MRI.
+
+## Summary
 
 
 ## Literature references
