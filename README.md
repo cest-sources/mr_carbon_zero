@@ -55,7 +55,7 @@ Thus, a strongly reduced external energy demand can be achieved using local phot
 In 8 of 12 months even an autarkic mode might be possible.
 
 With above mentioned savings we might reduce te energy demand of an advanced MRI from 159 MWh down to 80 MWh.
-In Germany a PV production of 175 to 235 kWh/sqm is possible.  Using 200 kWh/sqm as for our calculation leads to 400 sqm of needed photovoltaics to covere the average demand with the average production.
+In Germany a PV production of 175 to 235 kWh/sqm is possible[[3]](#literature-references).  Using 200 kWh/sqm as for our calculation leads to 400 sqm of needed photovoltaics to covere the average demand with the average production.
 To cover the months in spring and autumn a overdimensuoning of a factor two might be necessary, leading to 800 sqm.
 To use the higher PV energy of noon time for evening and morning, a battery storage can be used.
  - A storage of 0.5 MWh could cover approximatley 2 days of demand and seems well suited for this. 
@@ -73,18 +73,18 @@ base costs: PV: 210 Euro per sqm [[4]](#literature-references) , battery: ~500â‚
 
 Currently energy prices are at 42 cent per kWh. Thus, outgoing from the non-optimized demand (159 MWh), this autarkic MRI + PV + battery system would amortize itself within 7.7 years. And would contribute to the heating of the building.
 
-And roofs are still empty:
+And too many roofs are still empty:
 
 ![Rofs](../main/img/roofs.jpg)
 
-And for the winter months we buy wind energy to realize a carbon zero MRI.
+In the winter months one needs to buy wind energy to realize a carbon zero MRI.
 
 ## Summary - MR carbon zero
 In summary we have to
-1. add 800sqm PV
+1. build 800sqm PV
 2. reduce active-on idle times and match active-on with solar cycle
-3. don't cool at night be recool during daytime
-4. add buffer battery for mornings, eveenings and as peak power buffer
+3. don't cool at night, but recool during daytime
+4. add buffer battery for mornings, evenings, and as peak-power buffer
 5. get wind energy in winter
 
 ![Rofs](../main/img/summary.jpg)
