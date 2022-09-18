@@ -20,7 +20,7 @@ In both cases the helium reliquification process has to be included in the energ
 The above mentioned energy demand is most probobably from system with zero boil-off techonolgy (Skyra, Verio, Avanto Fit, Espree), but this could not be verified, as avanto system without zero boil-off exist. It is assumed that this is included for the estimations herein.
 
 ### Dynamic energy demand 
-The dynamic energy demand[[1]](#literature-references)  is given by teh following figures:
+The dynamic energy demand[[1]](#literature-references)  is given by the following figures:
 
  - ![Dynamic Energy demand](../main/img/dynNRG-MRI_fig2.jpeg)
 
@@ -42,24 +42,38 @@ which is also nicely summarized here:
 - reduce on-active idle times 
 
 ### advanced 
-- no cooling at night - use solar power during the daytime.
-- Using the generated heat as heat supply or reservoir -> heat pumps. Under the assumption that 20 % of the energy (108 MWh/159 MWh at 1.5/3 T) can be re-used as heat source, this is  21 / 32 MWh unused energy annualy.
+- no cooling at night -store helium gas and use solar power during the daytime for condensation.
+- use the generated heat as heat supply or reservoir -> heat pumps. Under the assumption that 20 % of the energy (108 MWh/159 MWh at 1.5/3 T) can be re-used as heat source, this is  21 / 32 MWh unused energy annualy.
 
 ### more advanced 
 - design and usage of more effecient amplifiers
 - more effcient cooling / isolation ( e.g. cryogen-free systems, but seem to have similar demand)
 
 ## Solar system and storage dimensioning
-Active times are in average 13h, ca. 6am to 7 pm mostly at daytime. That's when the sun is shining.
-
-
-
-
-
+Active times are in average 13h, ca. 6am to 7 pm mostly at daytime, where local photovoltaics (PV) can contribute to the energy demand. [[2]](#literature-references) 
+As depicted below on average we have 50 % PV capacity between 7 am and 4 pm. and we are above the 50 % capacity between March and October.
 ![Solar months](../main/img/PV_weekly_hourly_germany.jpg)
+Thus, a strongly reduced external energy demand can be achieved using local photovoltaics supply. 
+In 8 of 12 months even an autarkic mode might be possible.
 
+With above mentioned savings we might reduce te energy demand of an advanced MRI from 159 MWh down to 80 MWh.
+In Germany a PV production of 175 to 235 kWh/sqm is possible.  Using 200 kWh/sqm as for our calculation leads to 400 sqm of needed photovoltaics to covere the average demand with the average production.
+To cover the months in spring and autumn a overdimensuoning of a factor two might be necessary, leading to 800 sqm.
+To use the higher PV energy of noon time for evening and morning, a battery storage can be used.
+A storage of 0.5 MWh could cover approximatley 2 days of demand and seems well suited for this.
 
-## Autarkic MRI 9/12
+## Cost of an 8/12 autarkic MRI 
+
+- PV: 210 Euro per sqm
+- battery: ~500€ per kWh
+
+- 800 sqm PV    -  168,000 €
+- 0.5 MWh battery - 250,000 €
+- setup - 32,000 €
+- ----------------------------------
+- Total:    450,000 €
+
+Currently energy prices are at 42 cent per kWh. Thus, outgoing from the non-optimized demand (159 MWh), this autarkic MRI + PV + battery system would amortize itself within 7.7 years. And would contribute to the heating of the builidng.
 
 ## Literature references
 
@@ -68,6 +82,6 @@ Active times are in average 13h, ca. 6am to 7 pm mostly at daytime. That's when 
 [2] Pfenninger S, Staffell I. Long-term patterns of European PV output using 30 years of validated hourly reanalysis and satellite data. Energy. 2016;114:1251-1265. doi:10.1016/j.energy.2016.08.060 and the Supporting Info: 
 https://ars.els-cdn.com/content/image/1-s2.0-S0360544216311744-mmc1.pdf
 
-
+[3] https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf
 
 
