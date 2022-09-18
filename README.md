@@ -20,7 +20,19 @@ In both cases the helium reliquification process has to be included in the energ
 The above mentioned energy demand is most probobably from system with zero boil-off techonolgy (Skyra, Verio, Avanto Fit, Espree), but this could not be verified, as avanto system without zero boil-off exist. It is assumed that this is included for the estimations herein.
 
 ### Dynamic energy demand 
-![Dynamic Energy demand](../main/img/image.png)
+The dynamic energy demand[[1]](#literature-references)  is given by teh following figures:
+
+ - ![Dynamic Energy demand](../main/img/dynNRG-MRI_fig2.jpeg)
+
+This shows that 
+1. MRI has an high constant energy demand at both on and off time, due to the cooling
+2. MRI has peaks of power demand up to 60 kWh for certain sequences (ssfp)
+3. MRI has non-negligible idle energy demand during on times.
+
+Which si also nicely summarized here:
+ - ![Dynamic Energy demand](../main/img/dynNRG_MRI_fig7.jpeg)
+
+
 
 
 ## Options to save energy
