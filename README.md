@@ -10,15 +10,6 @@ With almost **3000 MRI systems** in use alone in **Germany**, corresponding to t
 
 Average per examination 20 kWh ± 5 (range, 12–34 kWh).
 
-### Helium demand and zero boil-off
-MR scanners have a rather high helium demand for the cooling system as upon usage, heating of the system leads to boil-off of helium.
-On old systems this helium is either gathered for external reliquefying purposes or released to the environment.
-Newer generation of MRI scanners have a so-called **zero boil-off technology where the generated helium gas is locally collected and reliquefied**. The additional helium demand is therefore marginal, which is a significant cost reduction, but the energy demand of zero boil-off systems is larger.
-
-In both cases the helium reliquification process has to be included in the energy demand calculation.
-
-The above mentioned energy demand is most probobably from system with zero boil-off techonolgy (Skyra, Verio, Avanto Fit, Espree), but this could not be verified, as avanto system without zero boil-off exist. It is assumed that this is included for the estimations herein.
-
 ### Dynamic energy demand 
 The dynamic energy demand[[1]](#literature-references)  is given by the following figures:
 
@@ -31,6 +22,16 @@ This shows that
 
 which is also nicely summarized here:
 ![Dynamic Energy demand](../main/img/dynNRG_MRI_fig7.jpeg)
+
+### Helium demand and zero boil-off
+MR scanners have a rather high helium demand for the cooling system as upon usage, heating of the system leads to boil-off of helium.
+On old systems this helium is either gathered for external reliquefying purposes or released to the environment.
+Newer generation of MRI scanners have a so-called **zero boil-off technology where the generated helium gas is locally collected and reliquefied**. The additional helium demand is therefore marginal, which is a significant cost reduction, but the energy demand of zero boil-off systems is larger.
+
+In both cases the helium reliquification process has to be included in the energy demand calculation.
+
+The above mentioned energy demand is most probobably from system with zero boil-off techonolgy (Skyra, Verio, Avanto Fit, Espree), but this could not be verified, as avanto system without zero boil-off exist. It is assumed that this is included for the estimations herein.
+
 
 ## Options to save energy
 ### simple
@@ -45,7 +46,7 @@ which is also nicely summarized here:
 
 ### more advanced 
 - design and usage of more effecient amplifiers
-- more effcient cooling / isolation ( e.g. cryogen-free systems, but seem to have similar demand)
+- more effcient cooling / isolation (e.g. cryogen-free systems, but seem to have similar demand)
 
 ## Solar system and storage dimensioning
 Active times are in average 13h, ca. 6am to 7 pm mostly at daytime, where local photovoltaics (PV) can contribute to the energy demand. [[2]](#literature-references) 
@@ -71,7 +72,7 @@ base costs: PV: 210 Euro per sqm [[4]](#literature-references) , battery: ~500�
 - ----------------------------------
 - Total:-----------------450,000 €
 
-Currently energy prices are at 42 cent per kWh. Thus, outgoing from the non-optimized demand (159 MWh), this **autarkic MRI + PV + battery system** would amortize itself within **7.7 years**. And would contribute to the heating of the building.
+Currently energy prices are at 42 cent per kWh. Thus, outgoing from the non-optimized demand (159 MWh), this **autarkic MRI + PV + battery system** would amortize itself within **7.7 years**. (Without battery below 3 years). And it would contribute to the heating of the building.
 
 And too many roofs are still empty:
 
