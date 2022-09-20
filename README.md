@@ -36,7 +36,7 @@ The above mentioned energy demand is most probobably from system with zero boil-
 ## Options to save energy
 ### simple
 - (use lower field, but at cost of performance)
-- switching off the scanner as long as possible
+- switching off the scanner as long as possible ( or measure at night)
 - reduce on-active idle times 
 - optimize MR sequences
 
