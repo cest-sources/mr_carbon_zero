@@ -82,7 +82,7 @@ In the winter months one needs to buy wind energy to realize a carbon zero MRI.
 ## Summary - MR carbon zero
 In summary we have to
 1. build 800sqm PV
-2. reduce active-on idle times and match active-on with solar cycle
+2. reduce active-on idle times (optimize work flow) and match active-on with solar cycle
 3. don't cool at night, but recool during daytime
 4. add buffer battery for mornings, evenings, and as peak-power buffer
 5. get wind energy in winter
