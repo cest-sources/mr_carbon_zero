@@ -23,10 +23,11 @@ This shows that
 which is also nicely summarized here:
 ![Dynamic Energy demand](../main/img/dynNRG_MRI_fig7.jpeg)
 
-### Helium demand and zero boil-off
+### Helium demand and zero boil-off (ZBO)
 MR scanners have a rather high helium demand for the cooling system as upon usage, heating of the system leads to boil-off of helium.
 On old systems this helium is either gathered for external reliquefying purposes or released to the environment.
 Newer generation of MRI scanners have a so-called **zero boil-off technology where the generated helium gas is locally collected and reliquefied**. The additional helium demand is therefore marginal, which is a significant cost reduction, but the energy demand of zero boil-off systems is larger.
+Mor infor on ZBO can be found here https://mriquestions.com/uploads/3/4/5/7/34572113/advances_in_magnet_design.pdf
 
 In both cases the helium reliquification process has to be included in the energy demand calculation.
 
