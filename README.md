@@ -46,8 +46,8 @@ The above mentioned energy demand is most probobably from system with zero boil-
 - use the generated **waste heat** as heat supply or reservoir for heat pumps. Under the assumption that 20 % of the energy (108 MWh/159 MWh at 1.5/3 T) can be re-used as heat source, this is  21 / 32 MWh unused energy annualy or **6 houshold per MRI system**.
 
 ### more advanced 
-- design and usage of more effecient amplifiers
-- more effcient cooling / isolation (e.g. cryogen-free systems, but seem to have similar demand)
+- design and usage of more efficient amplifiers
+- more efficient cooling / isolation (e.g. cryogen-free systems, but seem to have similar demand)
 
 ## Solar system and storage dimensioning
 Active times are in average 13h, ca. 6am to 7 pm mostly at daytime, where local photovoltaics (PV) can contribute to the energy demand. [[2]](#literature-references) 
