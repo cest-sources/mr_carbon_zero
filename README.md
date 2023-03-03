@@ -106,3 +106,7 @@ https://ars.els-cdn.com/content/image/1-s2.0-S0360544216311744-mmc1.pdf
 
 [5] https://energetechsolar.com/1mwh-500v-800v-battery-energy-storage-system
 
+
+To read:
+
+https://www.magnetomworld.siemens-healthineers.com/clinical-corner/case-studies/sustainability-in-medical-technology
