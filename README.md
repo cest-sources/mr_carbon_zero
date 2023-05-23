@@ -113,6 +113,8 @@ https://www.magnetomworld.siemens-healthineers.com/clinical-corner/case-studies/
 
 Turn It Off! A Simple Method to Save Energy and CO2 Emissions in a Hospital Setting with Focus on Radiology by Monitoring Nonproductive Energy-consuming Devices Tobias Heye, Manfred T. Meyer, Elmar M. Merkle, and Jan Vosshenrich
 Radiology https://pubs.rsna.org/doi/10.1148/radiol.230162
+https://github.com/mtmey/ping_tracker
+
 
 https://doi.org/10.1148/radiol.230229
 
