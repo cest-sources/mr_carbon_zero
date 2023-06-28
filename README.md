@@ -89,7 +89,7 @@ In summary we have to
 4. add buffer battery for mornings, evenings, and as peak-power buffer
 5. get wind energy in winter
 6. use generated waste heat for buildings heating ~ 10-20 MWh/year / 4 households
-7. **Optimize MRI sequences**
+7. Optimize MRI sequences
 
 ![Rofs](../main/img/summary.jpg)
 
